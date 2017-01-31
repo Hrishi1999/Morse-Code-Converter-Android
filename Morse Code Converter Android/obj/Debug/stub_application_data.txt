@@ -1,0 +1,2 @@
+android.app.Application
+Morse_Code_Converter_Android.Morse_Code_Converter_Android

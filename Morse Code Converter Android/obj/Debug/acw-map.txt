@@ -1,0 +1,4 @@
+Morse_Code_Converter_Android.MainActivity, Morse Code Converter Android;md5a3a76ef43f3f3bad021debd21cbb087f.MainActivity
+Morse_Code_Converter_Android.MainActivity, Morse Code Converter Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a3a76ef43f3f3bad021debd21cbb087f.MainActivity
+Morse_Code_Converter_Android.MainActivity;md5a3a76ef43f3f3bad021debd21cbb087f.MainActivity
+morse_code_converter_android.MainActivity;md5a3a76ef43f3f3bad021debd21cbb087f.MainActivity

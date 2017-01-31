@@ -1,0 +1,40 @@
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\Morse Code Converter Android.dll
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\Morse Code Converter Android.pdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\Morse_Code_Converter_Android.Morse_Code_Converter_Android.apk
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\Morse_Code_Converter_Android.Morse_Code_Converter_Android-Signed.apk
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\Morse Code Converter Android.csprojResolveAssemblyReference.cache
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\Morse Code Converter Android.dll
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\Morse Code Converter Android.pdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\bin\Morse_Code_Converter_Android.Morse_Code_Converter_Android.apk
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\res\layout\main.xml
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\res\values\strings.xml
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\res\drawable\icon.png
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\R.cs.flag
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\uploadflags.txt
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\Morse Code Converter Android.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\Java.Interop.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\Mono.Android.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\mscorlib.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\System.Core.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\System.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\System.Net.Http.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\System.Xml.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\Morse Code Converter Android.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\System.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Hrishi\Documents\Visual Studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\res\values\theme.xml
+C:\Users\Hrishi\Documents\Visual Studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\obj\Debug\Morse Code Converter Android.dll.mdb
+C:\Users\Hrishi\Documents\Visual Studio 2015\Projects\Morse Code Converter Android\Morse Code Converter Android\bin\Debug\Morse Code Converter Android.dll.mdb
